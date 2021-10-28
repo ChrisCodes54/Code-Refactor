@@ -20,8 +20,8 @@ No license.
 ## Contributors
 Chris Tangarife
 ## Questions
-If you have any questions about the application contact me at "enter email here"
+If you have any questions about the application contact me at Christangarife95@gmail.com
 # Contact
-geartybrian@gmail.com
+Christangarife95@gmail.com
 # Username
-Check out my other work at https://www.github.com/username 
+Check out my other work at https://www.github.com/ChrisCodes54 
