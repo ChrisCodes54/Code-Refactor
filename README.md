@@ -13,7 +13,7 @@ Refactor code to have proper semantic elements and clean up CSS.
 ## Install
 No install needed.
 ## Usage
-Static web page.
+Static web page in order to maintain the webpage but clean up the code.
 ## License
 No license.
 ## Contributors
