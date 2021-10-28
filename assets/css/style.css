@@ -106,6 +106,7 @@ aside img {
     max-width: 150px;
 }
 
+/* divs within the section had multiple classes doing the same thing so i 'condense' it */
 .condense {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,11 +116,11 @@ aside img {
     color: #ffffff;
 }
 
-section img {
+main img {
     max-height: 200px;
 }
 
-section h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
