@@ -1,4 +1,4 @@
-### Code Refactor  ###
+# Code Refactor  #
 
   ## Table of Contents
 * [Description](#description)
@@ -6,7 +6,6 @@
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
-* [Test](#test)
 * [Questions](#questions)
 
 ## Description
