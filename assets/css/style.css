@@ -107,7 +107,7 @@ aside img {
 }
 
 /* divs within the section had multiple classes doing the same thing so i 'condense' it */
-.condense {
+.information {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
